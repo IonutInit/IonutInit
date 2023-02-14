@@ -22,7 +22,7 @@ That's why I am making public only the things that are already published or are 
 
 ---
 
-## One, two, PITCH:
+## One, two, three, PITCH!
 
 ***My approach is varied and flexible; I don't shy away from experimenting with the new and learning the why behind the written code.***
 
