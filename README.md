@@ -74,6 +74,6 @@ Add to this rather cosmological view the simple pleasure of craft things--for ot
 
 Social
 
-I'm not a big fan of social media, and I use it only if absolutely necessary. Here is my [LinkedIn](https://www.linkedin.com/in/ionut-cojocaru-dev/) profile, and my [Twitter](https://twitter.com/Ionut_Dev), which I use solely to document my 100 Days of Code challenge.
+For better of worse, I'm not a big fan of social media. But I do have a [LinkedIn account](https://www.linkedin.com/in/ionut-cojocaru-dev/).
 
 ---
