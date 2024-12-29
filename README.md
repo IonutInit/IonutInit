@@ -2,6 +2,7 @@
 
 - code tinkerer
 - query whisperer
+- contributor to the useless web
 
 ---
 
@@ -22,3 +23,14 @@ At once, the novice was enlightened.
 **No Greatest Tool** ([Vim Koans](https://blog.sanctum.geek.nz/vim-koans/))
 
 ---
+
+*What I'm doing*
+
+# [Keepsy](https://keepsy.xyz)
+Intelligent notes • Smart organization • URL shortener • Micro-publishing
+
+# [Geoskope](https://geoskope.xyz)
+Contains Choropleths, but I'll be adding Globograph, Countrygrams and Quzzidrome to it 
+
+---
+
